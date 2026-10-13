@@ -1,0 +1,5 @@
+kendaraan = ["vario", "motor", 150, "pink", 2]
+kendaraan.append(5000)
+kendaraan.append("matic")
+kendaraan.insert(2,"honda")
+print(kendaraan)
